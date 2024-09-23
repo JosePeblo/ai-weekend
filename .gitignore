@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+# Im excluding the opencl headers and binary libs for the time being
+vendor/OpenCL/
